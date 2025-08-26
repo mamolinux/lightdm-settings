@@ -1,3 +1,10 @@
+lightdm-settings (2.0.9) zara; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Aug 2025 17:45:22 +0200
+
 lightdm-settings (2.0.8) zara; urgency=medium
 
   * l10n: Update translations
