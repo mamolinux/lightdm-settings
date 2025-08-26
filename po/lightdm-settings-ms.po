@@ -1,16 +1,16 @@
-# Breton translation for linuxmint
-# Copyright (c) 2024 Rosetta Contributors and Canonical Ltd 2024
+# Malay translation for linuxmint
+# Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
 # This file is distributed under the same license as the linuxmint package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2023-11-28 17:06+0000\n"
-"PO-Revision-Date: 2024-07-24 09:38+0000\n"
-"Last-Translator: Anthony Guechoum <a.guechoum@proton.me>\n"
-"Language-Team: Breton <br@li.org>\n"
+"PO-Revision-Date: 2025-08-05 20:38+0000\n"
+"Last-Translator: Keviindran Ramachandran <Unknown>\n"
+"Language-Team: Malay <ms@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,176 +21,187 @@ msgstr ""
 #: usr/lib/lightdm-settings/lightdm-settings:68 generate_desktop_files:25
 #: generate_desktop_files:52
 msgid "Login Window"
-msgstr "Prenestr kennaskañ"
+msgstr "Tetingkap Log Masuk"
 
 #: usr/lib/lightdm-settings/lightdm-settings:58
 msgid "Quit"
-msgstr "Kuitaat"
+msgstr "Keluar"
 
 #: usr/lib/lightdm-settings/lightdm-settings:124
 msgid "Appearance"
-msgstr "Neuz"
+msgstr "Penampilan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:125
 msgid "General"
-msgstr "Hollek"
+msgstr "Umum"
 
 #: usr/lib/lightdm-settings/lightdm-settings:129
 msgid "Left"
-msgstr "Kleiz"
+msgstr "Kiri"
 
 #: usr/lib/lightdm-settings/lightdm-settings:130
 msgid "Center"
-msgstr "Kreiz"
+msgstr "Tengah"
 
 #: usr/lib/lightdm-settings/lightdm-settings:131
 msgid "Right"
-msgstr "Dehou"
+msgstr "Kanan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:132
 msgid "Alignment"
-msgstr "Steudañ"
+msgstr "Penjajaran"
 
 #: usr/lib/lightdm-settings/lightdm-settings:133
 msgid "Alignment of the login box"
-msgstr "Steudañ ar voest kennaskañ"
+msgstr "Penjajaran kotak log masuk"
 
 #: usr/lib/lightdm-settings/lightdm-settings:136
 #: usr/lib/lightdm-settings/lightdm-settings:138
 msgid "Background"
-msgstr "Drekleur"
+msgstr "Latar belakang"
 
 #: usr/lib/lightdm-settings/lightdm-settings:139
 msgid ""
 "Note: Don't select a background from your home directory if it's encrypted "
 "or if its permissions are restricted."
 msgstr ""
+"Nota: Jangan pilih latar belakang dari direktori rumah anda jika ia "
+"disulitkan atau jika izinnya terhad."
 
 #: usr/lib/lightdm-settings/lightdm-settings:142
 #: usr/lib/lightdm-settings/lightdm-settings:143
 msgid "Background color"
-msgstr "Liv an drekleur"
+msgstr "Warna latar belakang"
 
 #: usr/lib/lightdm-settings/lightdm-settings:148
 msgid "Stretch background across multiple monitors"
-msgstr ""
+msgstr "Regangkan latar belakang merentasi beberapa monitor"
 
 #: usr/lib/lightdm-settings/lightdm-settings:151
 msgid "Draw user backgrounds"
-msgstr ""
+msgstr "Lukis latar belakang pengguna"
 
 #: usr/lib/lightdm-settings/lightdm-settings:152
 msgid "When a user is selected, show that user's background."
 msgstr ""
+"Apabila pengguna dipilih, tunjukkan latar belakang pengguna tersebut."
 
 #: usr/lib/lightdm-settings/lightdm-settings:155
 msgid "Draw a grid"
-msgstr "Diskouez ur gael"
+msgstr "Lukis grid"
 
 #: usr/lib/lightdm-settings/lightdm-settings:156
 msgid "Draw a grid of white dots on top of the background."
-msgstr "Tresañ ur gael a bikoù bihan gwenn war an drekleur."
+msgstr "Lukis grid titik putih di atas latar belakang."
 
 #: usr/lib/lightdm-settings/lightdm-settings:159
 msgid "Themes"
-msgstr "Temoù"
+msgstr "Tema"
 
 #: usr/lib/lightdm-settings/lightdm-settings:161
 #: usr/lib/lightdm-settings/lightdm-settings:162
 msgid "GTK theme"
-msgstr "Tem GTK"
+msgstr "Tema GTK"
 
 #: usr/lib/lightdm-settings/lightdm-settings:165
 #: usr/lib/lightdm-settings/lightdm-settings:166
 msgid "Icon theme"
-msgstr "Tem an arlunioù"
+msgstr "Tema ikon"
 
 #: usr/lib/lightdm-settings/lightdm-settings:169
 #: usr/lib/lightdm-settings/lightdm-settings:170
 msgid "Mouse pointer"
-msgstr "Biz al logodenn"
+msgstr "Penunjuk tetikus"
 
 #: usr/lib/lightdm-settings/lightdm-settings:173
 #: usr/lib/lightdm-settings/lightdm-settings:174
 msgid "Mouse pointer size"
-msgstr "Ment biz al logodenn"
+msgstr "Saiz penunjuk tetikus"
 
 #: usr/lib/lightdm-settings/lightdm-settings:177
 msgid "Optional pictures"
-msgstr "Skeudennoù diret"
+msgstr "Gambar pilihan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:179
 msgid "Other monitors"
-msgstr "Skrammoù all"
+msgstr "Monitor lain"
 
 #: usr/lib/lightdm-settings/lightdm-settings:180
 msgid ""
 "If you have multiple monitors, the user list is placed on the active one, "
 "and this picture on the others."
 msgstr ""
+"Jika anda mempunyai beberapa monitor, senarai pengguna diletakkan pada "
+"monitor aktif, dan gambar ini pada monitor yang lain."
 
 #: usr/lib/lightdm-settings/lightdm-settings:183
 msgid "Bottom left"
-msgstr "En traoñ a-gleiz"
+msgstr "Bawah kiri"
 
 #: usr/lib/lightdm-settings/lightdm-settings:184
 msgid "Select a picture to show on the bottom left of the login window."
 msgstr ""
+"Pilih gambar untuk dipaparkan di bahagian bawah kiri tetingkap log masuk."
 
 #: usr/lib/lightdm-settings/lightdm-settings:191
 msgid "Users"
-msgstr "Arveriaded"
+msgstr "Pengguna"
 
 #: usr/lib/lightdm-settings/lightdm-settings:192
 msgid "User list"
-msgstr "Listenn an arveriaded"
+msgstr "Senarai pengguna"
 
 #: usr/lib/lightdm-settings/lightdm-settings:195
 msgid "Allow manual login"
-msgstr "Aotren ar c'hennask dre zorn"
+msgstr "Benarkan log masuk manual"
 
 #: usr/lib/lightdm-settings/lightdm-settings:196
 msgid "Add an option in the login window to enter a username."
 msgstr ""
+"Tambah pilihan di tetingkap log masuk untuk memasukkan nama pengguna."
 
 #: usr/lib/lightdm-settings/lightdm-settings:200
 msgid "Hide the user list"
-msgstr "Kuzhat listenn an arveriaded"
+msgstr "Sembunyikan senarai pengguna"
 
 #: usr/lib/lightdm-settings/lightdm-settings:201
 msgid "Hide the list of users in the login window."
-msgstr "Kuzhat listenn an arveriaded er prenestr kennaskañ."
+msgstr "Sembunyikan senarai pengguna dalam tetingkap log masuk."
 
 #: usr/lib/lightdm-settings/lightdm-settings:205
 msgid "Guest sessions"
-msgstr "Estezioù kouviad"
+msgstr "Sesi tetamu"
 
 #: usr/lib/lightdm-settings/lightdm-settings:207
 msgid "Allow guest sessions"
-msgstr "Aotren an estezioù kouviad"
+msgstr "Benarkan sesi tetamu"
 
 #: usr/lib/lightdm-settings/lightdm-settings:208
 msgid ""
 "Allow guests to use the computer without a password. A temporary guest "
 "account is created automatically when they log in."
 msgstr ""
+"Benarkan tetamu menggunakan komputer tanpa kata laluan. Akaun tetamu "
+"sementara akan dibuat secara automatik apabila mereka log masuk."
 
 #: usr/lib/lightdm-settings/lightdm-settings:211
 msgid "Automatic login"
-msgstr "Kennask emgefreek"
+msgstr "Log masuk automatik"
 
 #: usr/lib/lightdm-settings/lightdm-settings:214
 msgid "Username"
-msgstr "Anv-arveriad"
+msgstr "Nama pengguna"
 
 #: usr/lib/lightdm-settings/lightdm-settings:215
 msgid ""
 "Warning: Automatic login will fail if the user's home directory is encrypted."
 msgstr ""
+"Amaran: Log masuk automatik akan gagal jika direktori rumah pengguna "
+"disulitkan."
 
 #: usr/lib/lightdm-settings/lightdm-settings:219
 msgid "Delay before connection (in seconds)"
-msgstr "Dale a-raok ar c'hennask (e eilennoù)"
+msgstr "Tempoh masa sebelum sambungan (dalam saat)"
 
 #: usr/lib/lightdm-settings/lightdm-settings:220
 msgid ""
@@ -198,141 +209,148 @@ msgid ""
 "before the automatic login occurs. Any user activity will cancel the "
 "countdown."
 msgstr ""
+"Jika pilihan ini ditetapkan, skrin log masuk akan dipaparkan selama beberapa "
+"saat sebelum log masuk automatik berlaku. Sebarang aktiviti pengguna akan "
+"membatalkan kira detik tersebut."
 
 #: usr/lib/lightdm-settings/lightdm-settings:223
 msgid "These settings require a computer reboot to take effect."
 msgstr ""
+"Tetapan ini memerlukan komputer dimulakan semula untuk berkuat kuasa."
 
 #: usr/lib/lightdm-settings/lightdm-settings:228
 #: usr/lib/lightdm-settings/lightdm-settings:229
 msgid "Settings"
-msgstr "Arventennoù"
+msgstr "Tetapan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:231
 #: usr/lib/lightdm-settings/lightdm-settings:237
 msgid "Activate numlock"
-msgstr ""
+msgstr "Aktifkan numlock"
 
 #: usr/lib/lightdm-settings/lightdm-settings:237
 msgid "Please install numlockx to use this option."
-msgstr ""
+msgstr "Sila pasang numlockx untuk menggunakan pilihan ini."
 
 #: usr/lib/lightdm-settings/lightdm-settings:239
 msgid "Activate numlock in the login window."
-msgstr ""
+msgstr "Aktifkan numlock di tetingkap log masuk."
 
 #: usr/lib/lightdm-settings/lightdm-settings:245
 #: usr/lib/lightdm-settings/lightdm-settings:252
 msgid "Auto"
-msgstr "Emgefreek"
+msgstr "Auto"
 
 #: usr/lib/lightdm-settings/lightdm-settings:246
 msgid "Enable"
-msgstr "Gweredekaat"
+msgstr "Dayakan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:247
 msgid "Disable"
-msgstr "Diweredekaat"
+msgstr "Nyahdayakan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:248
 msgid "HiDPI support"
-msgstr "Skor HiDPI"
+msgstr "Sokongan HiDPI"
 
 #: usr/lib/lightdm-settings/lightdm-settings:249
 msgid "Support for high pixel density and Retina displays."
-msgstr ""
+msgstr "Sokongan untuk paparan berketumpatan piksel tinggi dan Retina."
 
 #: usr/lib/lightdm-settings/lightdm-settings:253
 msgid "Monitor"
-msgstr "Skramm"
+msgstr "Monitor"
 
 #: usr/lib/lightdm-settings/lightdm-settings:254
 msgid ""
 "Choose which monitor should display the login window, or select 'Auto' if "
 "you want it to follow the mouse."
 msgstr ""
+"Pilih monitor yang akan memaparkan tetingkap log masuk, atau pilih 'Auto' "
+"jika anda mahu ia mengikuti tetikus."
 
 #: usr/lib/lightdm-settings/lightdm-settings:257
 msgid "Panel indicators"
-msgstr ""
+msgstr "Penunjuk panel"
 
 #: usr/lib/lightdm-settings/lightdm-settings:259
 msgid "Hostname"
-msgstr "Anv ostiz"
+msgstr "Nama hos"
 
 #: usr/lib/lightdm-settings/lightdm-settings:260
 msgid "Show the computer hostname in the panel."
-msgstr "Diskouez anv ostiz an urzhiataer war ar penel."
+msgstr "Paparkan nama hos komputer di panel."
 
 #: usr/lib/lightdm-settings/lightdm-settings:263
 msgid "Accessibility options"
-msgstr "Dibarzhioù an haezadusted"
+msgstr "Pilihan kebolehcapaian"
 
 #: usr/lib/lightdm-settings/lightdm-settings:264
 msgid "Show accessibility options in the panel."
-msgstr "Diskouez dibarzhioù an haezadusted er penel."
+msgstr "Paparkan pilihan kebolehcapaian di panel."
 
 #: usr/lib/lightdm-settings/lightdm-settings:276
 msgid "On-screen keyboard layout"
-msgstr ""
+msgstr "Susun atur papan kekunci pada skrin"
 
 #: usr/lib/lightdm-settings/lightdm-settings:279
 msgid "Battery power"
-msgstr ""
+msgstr "Kuasa bateri"
 
 #: usr/lib/lightdm-settings/lightdm-settings:280
 msgid "On laptops, show the battery power in the panel."
-msgstr ""
+msgstr "Pada komputer riba, paparkan kuasa bateri di panel."
 
 #: usr/lib/lightdm-settings/lightdm-settings:283
 msgid "Keyboard layout"
-msgstr ""
+msgstr "Susun atur papan kekunci"
 
 #: usr/lib/lightdm-settings/lightdm-settings:284
 msgid "Show the keyboard layout in the panel."
-msgstr ""
+msgstr "Paparkan susun atur papan kekunci di panel."
 
 #: usr/lib/lightdm-settings/lightdm-settings:287
 msgid "Quit menu"
-msgstr ""
+msgstr "Menu keluar"
 
 #: usr/lib/lightdm-settings/lightdm-settings:288
 msgid "Show the quit menu in the panel."
-msgstr "Diskouez al lañser \"kuitaat\" war ar penel."
+msgstr "Paparkan menu keluar di panel."
 
 #: usr/lib/lightdm-settings/lightdm-settings:292
 msgid "Clock"
-msgstr "Horolaj"
+msgstr "Jam"
 
 #: usr/lib/lightdm-settings/lightdm-settings:293
 msgid "Show a clock in the panel."
-msgstr "Diskouez un horolaj war ar penel."
+msgstr "Paparkan jam di panel."
 
 #: usr/lib/lightdm-settings/lightdm-settings:303
 msgid "Clock format"
-msgstr ""
+msgstr "Format jam"
 
 #: usr/lib/lightdm-settings/lightdm-settings:304
 msgid ""
 "See https://www.foragoodstrftime.com for more information on formatting."
 msgstr ""
+"Lihat https://www.foragoodstrftime.com untuk maklumat lanjut tentang format."
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:235
 msgid "Choose an Image File"
-msgstr "Dibab ur restr skeudenn"
+msgstr "Pilih Fail Imej"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:238
 msgid "_Cancel"
-msgstr "_Nullañ"
+msgstr "_Batal"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:239
 msgid "_Open"
-msgstr "_Digeriñ"
+msgstr "_Buka"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:242
 msgid "Image files"
-msgstr "Restroù skeudenn"
+msgstr "Fail imej"
 
 #: generate_desktop_files:25
 msgid "Configure the login window"
-msgstr "Kefluniañ ar prenestr kennaskañ"
+msgstr "Konfigurasikan tetingkap log masuk"
