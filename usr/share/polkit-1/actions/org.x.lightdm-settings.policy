@@ -49,7 +49,9 @@
 <message xml:lang="ko">로그인 창</message>
 <message xml:lang="ku">Paceya têketinê</message>
 <message xml:lang="la">Fenestra Ingressus</message>
+<message xml:lang="lo">ໜ້າຕ່າງເຂົ້າສູ່ລະບົບ</message>
 <message xml:lang="lt">Prisijungimo langas</message>
+<message xml:lang="lv">Pieteikšanās logs</message>
 <message xml:lang="mai">लोगिन विंडो</message>
 <message xml:lang="mr">प्रवेश पटल</message>
 <message xml:lang="ms">Tetingkap Log Masuk</message>
@@ -57,6 +59,7 @@
 <message xml:lang="nb">Innloggingsvindu</message>
 <message xml:lang="ne">लगइन उइन्डो</message>
 <message xml:lang="nl">Aanmeldvenster</message>
+<message xml:lang="nn">Innloggingsvindauge</message>
 <message xml:lang="oc">Fenèstra de connexion</message>
 <message xml:lang="pl">Okno logowania</message>
 <message xml:lang="pt">Janela de início de sessão</message>
