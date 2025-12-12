@@ -1,16 +1,16 @@
-# Galician translation for linuxmint
-# Copyright (c) 2019 Rosetta Contributors and Canonical Ltd 2019
+# Lao translation for linuxmint
+# Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
 # This file is distributed under the same license as the linuxmint package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2023-11-28 17:06+0000\n"
-"PO-Revision-Date: 2019-08-24 17:42+0000\n"
-"Last-Translator: Jorge Teijeiro <jorge.teijeiro.ramos@gmail.com>\n"
-"Language-Team: Galician <gl@li.org>\n"
+"PO-Revision-Date: 2025-10-15 07:25+0000\n"
+"Last-Translator: boneni <Unknown>\n"
+"Language-Team: Lao <lo@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,178 +21,184 @@ msgstr ""
 #: usr/lib/lightdm-settings/lightdm-settings:68 generate_desktop_files:25
 #: generate_desktop_files:52
 msgid "Login Window"
-msgstr "Xanela de acceso"
+msgstr "ໜ້າຕ່າງເຂົ້າສູ່ລະບົບ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:58
 msgid "Quit"
-msgstr "Saír"
+msgstr "ອອກ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:124
 msgid "Appearance"
-msgstr "Aparencia"
+msgstr "ຮູບລັກ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:125
 msgid "General"
-msgstr ""
+msgstr "ທົ່ວໄປ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:129
 msgid "Left"
-msgstr ""
+msgstr "ຊ້າຍ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:130
 msgid "Center"
-msgstr ""
+msgstr "ກາງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:131
 msgid "Right"
-msgstr ""
+msgstr "ຂວາ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:132
 msgid "Alignment"
-msgstr ""
+msgstr "ການຈັດວາງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:133
 msgid "Alignment of the login box"
-msgstr ""
+msgstr "ການຈັດວາງຂອງກ່ອງເຂົ້າສູ່ລະບົບ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:136
 #: usr/lib/lightdm-settings/lightdm-settings:138
 msgid "Background"
-msgstr "Fondo do escritorio"
+msgstr "ພື້ນຫຼັງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:139
 msgid ""
 "Note: Don't select a background from your home directory if it's encrypted "
 "or if its permissions are restricted."
 msgstr ""
+"ໝາຍເຫດ: ຢ່າເລືອກພື້ນຫຼັງຈາກໂຟເດີ home ຂອງທ່ານ ຫາກມັນຖືກເຂົ້າລະຫັດ ຫຼື "
+"ຖືກຈຳກັດສິດການເຂົ້າເຖິງ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:142
 #: usr/lib/lightdm-settings/lightdm-settings:143
 msgid "Background color"
-msgstr "Cor de fondo"
+msgstr "ສີພື້ນຫຼັງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:148
 msgid "Stretch background across multiple monitors"
-msgstr ""
+msgstr "ຂະຫຍາຍພື້ນຫຼັງໃຫ້ເຕັມຫຼາຍໜ້າຈໍ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:151
 msgid "Draw user backgrounds"
-msgstr ""
+msgstr "ສະແດງພື້ນຫຼັງຂອງຜູ້ໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:152
 msgid "When a user is selected, show that user's background."
-msgstr "Cando un usuario é seleccionado, mostrar o seu fondo de escritorio."
+msgstr "ເມື່ອເລືອກຜູ້ໃຊ້, ໃຫ້ສະແດງພື້ນຫຼັງຂອງຜູ້ນັ້ນ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:155
 msgid "Draw a grid"
-msgstr "Debuxar unha grella"
+msgstr "ສະແດງຕາຕະລາງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:156
 msgid "Draw a grid of white dots on top of the background."
-msgstr "Debuxar unha grella de putnos brancos"
+msgstr "ສະແດງຕາຕະລາງຈຸດສີຂາວຢູ່ເທິງພື້ນຫຼັງ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:159
 msgid "Themes"
-msgstr "Temas"
+msgstr "ທີມ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:161
 #: usr/lib/lightdm-settings/lightdm-settings:162
 msgid "GTK theme"
-msgstr "Tema GTK"
+msgstr "ທີມ GTK"
 
 #: usr/lib/lightdm-settings/lightdm-settings:165
 #: usr/lib/lightdm-settings/lightdm-settings:166
 msgid "Icon theme"
-msgstr "Tema das iconas"
+msgstr "ທີມໄອຄອນ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:169
 #: usr/lib/lightdm-settings/lightdm-settings:170
 msgid "Mouse pointer"
-msgstr ""
+msgstr "ໂຕຊີ້ເມົ້າ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:173
 #: usr/lib/lightdm-settings/lightdm-settings:174
 msgid "Mouse pointer size"
-msgstr ""
+msgstr "ຂະໜາດໂຕຊີ້ເມົ້າ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:177
 msgid "Optional pictures"
-msgstr "Imaxes opcionais"
+msgstr "ຮູບພາບເພີ່ມເຕີມ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:179
 msgid "Other monitors"
-msgstr "Outros monitores"
+msgstr "ໜ້າຈໍອື່ນໆ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:180
 msgid ""
 "If you have multiple monitors, the user list is placed on the active one, "
 "and this picture on the others."
 msgstr ""
-"Se tes varios monitores, a lista de usuarios é colocada no activo e esta "
-"imaxe no resto."
+"ຖ້າທ່ານມີຫຼາຍໜ້າຈໍ, ລາຍຊື່ຜູ້ໃຊ້ຈະຢູ່ໜ້າຈໍທີ່ໃຊ້ງານຢູ່, ແລະ "
+"ຮູບນີ້ຈະຢູ່ໜ້າຈໍອື່ນໆ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:183
 msgid "Bottom left"
-msgstr "Abaixo á esquerda"
+msgstr "ລຸ່ມຊ້າຍ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:184
 msgid "Select a picture to show on the bottom left of the login window."
-msgstr "Elixe unha imaxe para mostrar abaixo á esquerda da xanela de acceso."
+msgstr "ເລືອກຮູບເພື່ອສະແດງຢູ່ດ້ານລຸ່ມຊ້າຍຂອງໜ້າຕ່າງເຂົ້າສູ່ລະບົບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:191
 msgid "Users"
-msgstr "Usuarios"
+msgstr "ຜູ້ໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:192
 msgid "User list"
-msgstr "Lista de usuarios"
+msgstr "ລາຍຊື່ຜູ້ໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:195
 msgid "Allow manual login"
-msgstr "Permitir acceso manual"
+msgstr "ອະນຸຍາດໃຫ້ເຂົ້າສູ່ລະບົບດ້ວຍຕົນເອງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:196
 msgid "Add an option in the login window to enter a username."
-msgstr ""
+msgstr "ເພີ່ມຕົວເລືອກໃນໜ້າຕ່າງເຂົ້າສູ່ລະບົບເພື່ອປ້ອນຊື່ຜູ້ໃຊ້."
 
 #: usr/lib/lightdm-settings/lightdm-settings:200
 msgid "Hide the user list"
-msgstr ""
+msgstr "ເຊື່ອງລາຍຊື່ຜູ້ໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:201
 msgid "Hide the list of users in the login window."
-msgstr ""
+msgstr "ເຊື່ອງລາຍຊື່ຜູ້ໃຊ້ໃນໜ້າຕ່າງເຂົ້າສູ່ລະບົບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:205
 msgid "Guest sessions"
-msgstr ""
+msgstr "ເຊດຊັນຜູ້ໃຊ້ຊົ່ວຄາວ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:207
 msgid "Allow guest sessions"
-msgstr ""
+msgstr "ອະນຸຍາດໃຫ້ໃຊ້ເຊດຊັນຜູ້ໃຊ້ຊົ່ວຄາວ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:208
 msgid ""
 "Allow guests to use the computer without a password. A temporary guest "
 "account is created automatically when they log in."
 msgstr ""
+"ອະນຸຍາດໃຫ້ຜູ້ໃຊ້ຊົ່ວຄາວໃຊ້ຄອມພິວເຕີໂດຍບໍ່ຕ້ອງໃຊ້ລະຫັດຜ່ານ. "
+"ບັນຊີຜູ້ໃຊ້ຊົ່ວຄາວຈະຖືກສ້າງຂຶ້ນໂດຍອັດຕະໂນມັດເມື່ອພວກເຂົາເຂົ້າສູ່ລະບົບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:211
 msgid "Automatic login"
-msgstr ""
+msgstr "ເຂົ້າສູ່ລະບົບອັດຕະໂນມັດ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:214
 msgid "Username"
-msgstr ""
+msgstr "ຊື່ຜູ້ໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:215
 msgid ""
 "Warning: Automatic login will fail if the user's home directory is encrypted."
 msgstr ""
+"ຄຳເຕືອນ: ການເຂົ້າສູ່ລະບົບອັດຕະໂນມັດຈະລົ້ມເຫຼວ ຫາກໂຟເດີ home "
+"ຂອງຜູ້ໃຊ້ຖືກເຂົ້າລະຫັດ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:219
 msgid "Delay before connection (in seconds)"
-msgstr ""
+msgstr "ຖ່ວງເວລາການເຊື່ອມຕໍ່ (ເປັນວິນາທີ)"
 
 #: usr/lib/lightdm-settings/lightdm-settings:220
 msgid ""
@@ -200,141 +206,147 @@ msgid ""
 "before the automatic login occurs. Any user activity will cancel the "
 "countdown."
 msgstr ""
+"ຫາກຕັ້ງຄ່າຕົວເລືອກນີ້, ໜ້າຈໍເຂົ້າສູ່ລະບົບຈະສະແດງຕາມຈຳນວນວິນາທີທີ່ກຳນົດ "
+"ກ່ອນທີ່ຈະເຂົ້າສູ່ລະບົບອັດຕະໂນມັດ. ການກະທຳໃດໆຂອງຜູ້ໃຊ້ຈະຍົກເລີກການນັບຖອຍຫຼັງ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:223
 msgid "These settings require a computer reboot to take effect."
-msgstr ""
+msgstr "ການຕັ້ງຄ່າເຫຼົ່ານີ້ຕ້ອງການເປີດຄອມພິວເຕີໃໝ່ເພື່ອໃຫ້ມີຜົນ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:228
 #: usr/lib/lightdm-settings/lightdm-settings:229
 msgid "Settings"
-msgstr ""
+msgstr "ການຕັ້ງຄ່າ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:231
 #: usr/lib/lightdm-settings/lightdm-settings:237
 msgid "Activate numlock"
-msgstr ""
+msgstr "ເປີດໃຊ້ງານ Numlock"
 
 #: usr/lib/lightdm-settings/lightdm-settings:237
 msgid "Please install numlockx to use this option."
-msgstr ""
+msgstr "ກະລຸນາຕິດຕັ້ງ numlockx ເພື່ອໃຊ້ຕົວເລືອກນີ້."
 
 #: usr/lib/lightdm-settings/lightdm-settings:239
 msgid "Activate numlock in the login window."
-msgstr ""
+msgstr "ເປີດໃຊ້ງານ Numlock ໃນໜ້າຕ່າງເຂົ້າສູ່ລະບົບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:245
 #: usr/lib/lightdm-settings/lightdm-settings:252
 msgid "Auto"
-msgstr ""
+msgstr "ອັດຕະໂນມັດ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:246
 msgid "Enable"
-msgstr ""
+msgstr "ເປີດໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:247
 msgid "Disable"
-msgstr ""
+msgstr "ປິດໃຊ້"
 
 #: usr/lib/lightdm-settings/lightdm-settings:248
 msgid "HiDPI support"
-msgstr ""
+msgstr "ຮອງຮັບ HiDPI"
 
 #: usr/lib/lightdm-settings/lightdm-settings:249
 msgid "Support for high pixel density and Retina displays."
-msgstr ""
+msgstr "ຮອງຮັບໜ້າຈໍທີ່ມີຄວາມໜາແໜ້ນຂອງພິກເຊວສູງ ແລະ Retina."
 
 #: usr/lib/lightdm-settings/lightdm-settings:253
 msgid "Monitor"
-msgstr ""
+msgstr "ໜ້າຈໍ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:254
 msgid ""
 "Choose which monitor should display the login window, or select 'Auto' if "
 "you want it to follow the mouse."
 msgstr ""
+"ເລືອກໜ້າຈໍທີ່ຈະໃຫ້ສະແດງໜ້າຕ່າງເຂົ້າສູ່ລະບົບ, ຫຼື ເລືອກ 'ອັດຕະໂນມັດ' "
+"ຫາກຕ້ອງການໃຫ້ມັນຕາມເມົ້າໄປ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:257
 msgid "Panel indicators"
-msgstr ""
+msgstr "ຕົວຊີ້ບອກເທິງແຖບ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:259
 msgid "Hostname"
-msgstr ""
+msgstr "ຊື່ໂຮສ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:260
 msgid "Show the computer hostname in the panel."
-msgstr ""
+msgstr "ສະແດງຊື່ໂຮສຂອງຄອມພິວເຕີເທິງແຖບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:263
 msgid "Accessibility options"
-msgstr ""
+msgstr "ຕົວເລືອກການເຂົ້າເຖິງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:264
 msgid "Show accessibility options in the panel."
-msgstr ""
+msgstr "ສະແດງຕົວເລືອກການເຂົ້າເຖິງເທິງແຖບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:276
 msgid "On-screen keyboard layout"
-msgstr ""
+msgstr "ຮູບແບບແປ້ນພິມເທິງໜ້າຈໍ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:279
 msgid "Battery power"
-msgstr ""
+msgstr "ພະລັງງານແບັດເຕີຣີ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:280
 msgid "On laptops, show the battery power in the panel."
-msgstr ""
+msgstr "ໃນແລັບທັອບ, ໃຫ້ສະແດງພະລັງງານແບັດເຕີຣີເທິງແຖບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:283
 msgid "Keyboard layout"
-msgstr ""
+msgstr "ຮູບແບບແປ້ນພິມ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:284
 msgid "Show the keyboard layout in the panel."
-msgstr ""
+msgstr "ສະແດງຮູບແບບແປ້ນພິມເທິງແຖບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:287
 msgid "Quit menu"
-msgstr ""
+msgstr "ເມນູອອກ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:288
 msgid "Show the quit menu in the panel."
-msgstr ""
+msgstr "ສະແດງເມນູອອກເທິງແຖບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:292
 msgid "Clock"
-msgstr ""
+msgstr "ໂມງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:293
 msgid "Show a clock in the panel."
-msgstr ""
+msgstr "ສະແດງໂມງເທິງແຖບ."
 
 #: usr/lib/lightdm-settings/lightdm-settings:303
 msgid "Clock format"
-msgstr ""
+msgstr "ຮູບແບບໂມງ"
 
 #: usr/lib/lightdm-settings/lightdm-settings:304
 msgid ""
 "See https://www.foragoodstrftime.com for more information on formatting."
 msgstr ""
+"ເບິ່ງ https://www.foragoodstrftime.com "
+"ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການຈັດຮູບແບບ."
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:235
 msgid "Choose an Image File"
-msgstr ""
+msgstr "ເລືອກໄຟລ໌ຮູບພາບ"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:238
 msgid "_Cancel"
-msgstr ""
+msgstr "_ຍົກເລີກ"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:239
 msgid "_Open"
-msgstr ""
+msgstr "_ເປີດ"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:242
 msgid "Image files"
-msgstr ""
+msgstr "ໄຟລ໌ຮູບພາບ"
 
 #: generate_desktop_files:25
 msgid "Configure the login window"
-msgstr ""
+msgstr "ກຳນົດຄ່າໜ້າຕ່າງເຂົ້າສູ່ລະບົບ"

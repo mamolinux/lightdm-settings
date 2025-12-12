@@ -1,16 +1,16 @@
-# Galician translation for linuxmint
-# Copyright (c) 2019 Rosetta Contributors and Canonical Ltd 2019
+# Filipino translation for linuxmint
+# Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
 # This file is distributed under the same license as the linuxmint package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2023-11-28 17:06+0000\n"
-"PO-Revision-Date: 2019-08-24 17:42+0000\n"
-"Last-Translator: Jorge Teijeiro <jorge.teijeiro.ramos@gmail.com>\n"
-"Language-Team: Galician <gl@li.org>\n"
+"PO-Revision-Date: 2025-11-14 15:11+0000\n"
+"Last-Translator: Emir Mendoza Emir's BTIN <Unknown>\n"
+"Language-Team: Filipino <fil@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,31 +21,31 @@ msgstr ""
 #: usr/lib/lightdm-settings/lightdm-settings:68 generate_desktop_files:25
 #: generate_desktop_files:52
 msgid "Login Window"
-msgstr "Xanela de acceso"
+msgstr "Login Window"
 
 #: usr/lib/lightdm-settings/lightdm-settings:58
 msgid "Quit"
-msgstr "Saír"
+msgstr "Isara"
 
 #: usr/lib/lightdm-settings/lightdm-settings:124
 msgid "Appearance"
-msgstr "Aparencia"
+msgstr "Itsura"
 
 #: usr/lib/lightdm-settings/lightdm-settings:125
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: usr/lib/lightdm-settings/lightdm-settings:129
 msgid "Left"
-msgstr ""
+msgstr "Kaliwa"
 
 #: usr/lib/lightdm-settings/lightdm-settings:130
 msgid "Center"
-msgstr ""
+msgstr "Gitna"
 
 #: usr/lib/lightdm-settings/lightdm-settings:131
 msgid "Right"
-msgstr ""
+msgstr "Kanan"
 
 #: usr/lib/lightdm-settings/lightdm-settings:132
 msgid "Alignment"
@@ -53,146 +53,150 @@ msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:133
 msgid "Alignment of the login box"
-msgstr ""
+msgstr "Alignment ng login box"
 
 #: usr/lib/lightdm-settings/lightdm-settings:136
 #: usr/lib/lightdm-settings/lightdm-settings:138
 msgid "Background"
-msgstr "Fondo do escritorio"
+msgstr "Background"
 
 #: usr/lib/lightdm-settings/lightdm-settings:139
 msgid ""
 "Note: Don't select a background from your home directory if it's encrypted "
 "or if its permissions are restricted."
 msgstr ""
+"Paalala: Huwag pumili ng background mula sa home directory kung encrypted "
+"ang home directory o limitado ang permiso ng background."
 
 #: usr/lib/lightdm-settings/lightdm-settings:142
 #: usr/lib/lightdm-settings/lightdm-settings:143
 msgid "Background color"
-msgstr "Cor de fondo"
+msgstr "Kulay ng background"
 
 #: usr/lib/lightdm-settings/lightdm-settings:148
 msgid "Stretch background across multiple monitors"
-msgstr ""
+msgstr "I-stretch ang background sa maraming monitor"
 
 #: usr/lib/lightdm-settings/lightdm-settings:151
 msgid "Draw user backgrounds"
-msgstr ""
+msgstr "I-draw ang user backgrounds"
 
 #: usr/lib/lightdm-settings/lightdm-settings:152
 msgid "When a user is selected, show that user's background."
-msgstr "Cando un usuario é seleccionado, mostrar o seu fondo de escritorio."
+msgstr "Kung pumili ng user, ipakita ang kanyang background."
 
 #: usr/lib/lightdm-settings/lightdm-settings:155
 msgid "Draw a grid"
-msgstr "Debuxar unha grella"
+msgstr "Maglagay ng grid"
 
 #: usr/lib/lightdm-settings/lightdm-settings:156
 msgid "Draw a grid of white dots on top of the background."
-msgstr "Debuxar unha grella de putnos brancos"
+msgstr "Magpatong ng grid ng puting tuldok sa background"
 
 #: usr/lib/lightdm-settings/lightdm-settings:159
 msgid "Themes"
-msgstr "Temas"
+msgstr "Mga Tema"
 
 #: usr/lib/lightdm-settings/lightdm-settings:161
 #: usr/lib/lightdm-settings/lightdm-settings:162
 msgid "GTK theme"
-msgstr "Tema GTK"
+msgstr "GTK theme"
 
 #: usr/lib/lightdm-settings/lightdm-settings:165
 #: usr/lib/lightdm-settings/lightdm-settings:166
 msgid "Icon theme"
-msgstr "Tema das iconas"
+msgstr "Icon theme"
 
 #: usr/lib/lightdm-settings/lightdm-settings:169
 #: usr/lib/lightdm-settings/lightdm-settings:170
 msgid "Mouse pointer"
-msgstr ""
+msgstr "Mouse pointer"
 
 #: usr/lib/lightdm-settings/lightdm-settings:173
 #: usr/lib/lightdm-settings/lightdm-settings:174
 msgid "Mouse pointer size"
-msgstr ""
+msgstr "Laki ng mouse pointer"
 
 #: usr/lib/lightdm-settings/lightdm-settings:177
 msgid "Optional pictures"
-msgstr "Imaxes opcionais"
+msgstr "Optional pics"
 
 #: usr/lib/lightdm-settings/lightdm-settings:179
 msgid "Other monitors"
-msgstr "Outros monitores"
+msgstr "Ibang monitors"
 
 #: usr/lib/lightdm-settings/lightdm-settings:180
 msgid ""
 "If you have multiple monitors, the user list is placed on the active one, "
 "and this picture on the others."
 msgstr ""
-"Se tes varios monitores, a lista de usuarios é colocada no activo e esta "
-"imaxe no resto."
 
 #: usr/lib/lightdm-settings/lightdm-settings:183
 msgid "Bottom left"
-msgstr "Abaixo á esquerda"
+msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:184
 msgid "Select a picture to show on the bottom left of the login window."
-msgstr "Elixe unha imaxe para mostrar abaixo á esquerda da xanela de acceso."
+msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:191
 msgid "Users"
-msgstr "Usuarios"
+msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:192
 msgid "User list"
-msgstr "Lista de usuarios"
+msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:195
 msgid "Allow manual login"
-msgstr "Permitir acceso manual"
+msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:196
 msgid "Add an option in the login window to enter a username."
-msgstr ""
+msgstr "Payagang i-type ang username sa login window"
 
 #: usr/lib/lightdm-settings/lightdm-settings:200
 msgid "Hide the user list"
-msgstr ""
+msgstr "Itago ang listahan ng users"
 
 #: usr/lib/lightdm-settings/lightdm-settings:201
 msgid "Hide the list of users in the login window."
-msgstr ""
+msgstr "Itago ang listahan ng users sa login window."
 
 #: usr/lib/lightdm-settings/lightdm-settings:205
 msgid "Guest sessions"
-msgstr ""
+msgstr "Guest sessions"
 
 #: usr/lib/lightdm-settings/lightdm-settings:207
 msgid "Allow guest sessions"
-msgstr ""
+msgstr "Payagan ang guest sessions"
 
 #: usr/lib/lightdm-settings/lightdm-settings:208
 msgid ""
 "Allow guests to use the computer without a password. A temporary guest "
 "account is created automatically when they log in."
 msgstr ""
+"Payagang mag-log in ang users sa guest window ng walang password. Temporary "
+"guest account ang gagawin para sa kanila."
 
 #: usr/lib/lightdm-settings/lightdm-settings:211
 msgid "Automatic login"
-msgstr ""
+msgstr "Automatic login"
 
 #: usr/lib/lightdm-settings/lightdm-settings:214
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: usr/lib/lightdm-settings/lightdm-settings:215
 msgid ""
 "Warning: Automatic login will fail if the user's home directory is encrypted."
 msgstr ""
+"Babala: Hindi gagana ang automatic login kung encrypted ang home directory "
+"ng user."
 
 #: usr/lib/lightdm-settings/lightdm-settings:219
 msgid "Delay before connection (in seconds)"
-msgstr ""
+msgstr "Delay bago ang koneksyon (segundo)"
 
 #: usr/lib/lightdm-settings/lightdm-settings:220
 msgid ""
@@ -200,15 +204,20 @@ msgid ""
 "before the automatic login occurs. Any user activity will cancel the "
 "countdown."
 msgstr ""
+"Kung naka-on ang option na ito, ipapakita ang login screen ng itinakdang "
+"bilang ng segundo bago awtomatikong mag-login. Walang awtomatikong login "
+"kung may anumang gawin ang user."
 
 #: usr/lib/lightdm-settings/lightdm-settings:223
 msgid "These settings require a computer reboot to take effect."
 msgstr ""
+"Kailangang i-restart ang computer para gumana ang anumang pagbabago sa mga "
+"settings dito."
 
 #: usr/lib/lightdm-settings/lightdm-settings:228
 #: usr/lib/lightdm-settings/lightdm-settings:229
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: usr/lib/lightdm-settings/lightdm-settings:231
 #: usr/lib/lightdm-settings/lightdm-settings:237
@@ -242,7 +251,7 @@ msgstr ""
 
 #: usr/lib/lightdm-settings/lightdm-settings:249
 msgid "Support for high pixel density and Retina displays."
-msgstr ""
+msgstr "Suporta para sa high pixel density at Retina displays."
 
 #: usr/lib/lightdm-settings/lightdm-settings:253
 msgid "Monitor"
