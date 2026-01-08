@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2023-11-28 17:06+0000\n"
-"PO-Revision-Date: 2025-09-10 18:12+0000\n"
+"PO-Revision-Date: 2025-12-27 14:18+0000\n"
 "Last-Translator: Klavs Petersons <Unknown>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2025-12-12 13:31+0000\n"
-"X-Generator: Launchpad (build 379e22b8475e3402088a4cdb4a6e7936a4d28414)\n"
+"X-Launchpad-Export-Date: 2026-01-08 15:42+0000\n"
+"X-Generator: Launchpad (build 99c00f518760bdd50fc6e353e7736d2fff8fba4a)\n"
+"Language: lv\n"
 
 #: usr/lib/lightdm-settings/lightdm-settings:36
 #: usr/lib/lightdm-settings/lightdm-settings:68 generate_desktop_files:25
@@ -65,7 +66,7 @@ msgid ""
 "Note: Don't select a background from your home directory if it's encrypted "
 "or if its permissions are restricted."
 msgstr ""
-"Piezīme. Neatlasiet fonu no sākuma direktorija, ja tas ir šifrēts vai ja tā "
+"Piezīme. Neatlasi fonu no sākuma direktorija, ja tas ir šifrēts vai ja tā "
 "atļaujas ir ierobežotas."
 
 #: usr/lib/lightdm-settings/lightdm-settings:142
@@ -83,7 +84,7 @@ msgstr "Zīmēt lietotāja fonus"
 
 #: usr/lib/lightdm-settings/lightdm-settings:152
 msgid "When a user is selected, show that user's background."
-msgstr "Kad lietotājs ir atlasīts, parādiet tā fonu."
+msgstr "Kad lietotājs ir atlasīts, parādīt tā fonu."
 
 #: usr/lib/lightdm-settings/lightdm-settings:155
 msgid "Draw a grid"
@@ -91,7 +92,7 @@ msgstr "Zīmēt režģi"
 
 #: usr/lib/lightdm-settings/lightdm-settings:156
 msgid "Draw a grid of white dots on top of the background."
-msgstr "Uzzīmējiet baltu punktu režģi virs fona."
+msgstr "Uzzīmēt baltu punktu režģi virs fona."
 
 #: usr/lib/lightdm-settings/lightdm-settings:159
 msgid "Themes"
@@ -130,7 +131,7 @@ msgid ""
 "If you have multiple monitors, the user list is placed on the active one, "
 "and this picture on the others."
 msgstr ""
-"Ja jums ir vairāki monitori, lietotāju saraksts tiek novietots aktīvajā "
+"Ja tev ir vairāki monitori, lietotāju saraksts tiek novietots aktīvajā "
 "monitorā, bet šis attēls - pārējos monitoros."
 
 #: usr/lib/lightdm-settings/lightdm-settings:183
@@ -139,8 +140,7 @@ msgstr "Apakšējā kreisā"
 
 #: usr/lib/lightdm-settings/lightdm-settings:184
 msgid "Select a picture to show on the bottom left of the login window."
-msgstr ""
-"Atlasiet attēlu, kas jārāda pieteikšanās loga apakšējā kreisajā stūrī."
+msgstr "Atlasi attēlu, kas jārāda pieteikšanās loga apakšējā kreisajā stūrī."
 
 #: usr/lib/lightdm-settings/lightdm-settings:191
 msgid "Users"
@@ -156,7 +156,7 @@ msgstr "Atļaut manuālu pieteikšanos"
 
 #: usr/lib/lightdm-settings/lightdm-settings:196
 msgid "Add an option in the login window to enter a username."
-msgstr "Pievienojiet pieteikšanās logā opciju ievadīt lietotājvārdu."
+msgstr "Pievieno pieteikšanās logā opciju ievadīt lietotājvārdu."
 
 #: usr/lib/lightdm-settings/lightdm-settings:200
 msgid "Hide the user list"
@@ -227,11 +227,11 @@ msgstr "Aktivizēt numlock"
 
 #: usr/lib/lightdm-settings/lightdm-settings:237
 msgid "Please install numlockx to use this option."
-msgstr "Lūdzu, instalējiet numlockx, lai izmantotu šo opciju."
+msgstr "Lūdzu, instalē numlockx, lai izmantotu šo opciju."
 
 #: usr/lib/lightdm-settings/lightdm-settings:239
 msgid "Activate numlock in the login window."
-msgstr "Aktivizējiet numlock pieteikšanās logā."
+msgstr "Aktivizē numlock pieteikšanās logā."
 
 #: usr/lib/lightdm-settings/lightdm-settings:245
 #: usr/lib/lightdm-settings/lightdm-settings:252
@@ -263,8 +263,8 @@ msgid ""
 "Choose which monitor should display the login window, or select 'Auto' if "
 "you want it to follow the mouse."
 msgstr ""
-"Izvēlieties, kuram monitoram jāparāda pieteikšanās logs, vai izvēlieties "
-"'Automātiski', ja vēlaties, lai tas sekotu peles kustībai."
+"Izvēlies, kuram monitoram jāparāda pieteikšanās logs, vai izvēlies "
+"'Automātiski', ja vēlies, lai tas sekotu peles kustībai."
 
 #: usr/lib/lightdm-settings/lightdm-settings:257
 msgid "Panel indicators"
@@ -330,11 +330,11 @@ msgstr "Pulksteņa formāts"
 msgid ""
 "See https://www.foragoodstrftime.com for more information on formatting."
 msgstr ""
-"Skatiet https://www.foragoodstrftime.com vairāk informācijas par formatēšanu."
+"Skati https://www.foragoodstrftime.com vairāk informācijas par formatēšanu."
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:235
 msgid "Choose an Image File"
-msgstr "Izvēlieties attēla failu"
+msgstr "Izvēlies attēla failu"
 
 #: usr/lib/lightdm-settings/SettingsWidgets.py:238
 msgid "_Cancel"
@@ -350,4 +350,4 @@ msgstr "Attēlu faili"
 
 #: generate_desktop_files:25
 msgid "Configure the login window"
-msgstr "Konfigurējiet pieteikšanās logu"
+msgstr "Konfigurē pieteikšanās logu"
